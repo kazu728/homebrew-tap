@@ -1,8 +1,8 @@
 class Gcz < Formula
   desc "Simple git commit message generator"
   homepage "https://github.com/kazu728/gcz"
-  url "https://github.com/kazu728/gcz/releases/download/v0.1.0/gcz-v1.0.0-aarch64-apple-darwin.tar.gz"
-  sha256 "56f1c7f4215d0ac77cdef3adbea7f3ccb4e3ea6619e3b30278724a1bc0583373"
+  url "https://github.com/kazu728/gcz/releases/download/v0.2.0/gcz-v0.2.0-aarch64-apple-darwin.tar.gz"
+  sha256 "9ed1001e88843a0e4869ee186f64c5454a8594623ad89531885954c8b06c37fe"
   license "MIT"
 
   def install
