@@ -1,8 +1,7 @@
-# Homebrwe-gcz
+# Homebrwe-tap
 
-Homebrew formula for [gcz](https://github.com/kazu728/gcz)
+Third party Homebrew tap.
 
 ```sh
-brew tap kazu728/gcz
-brew install gcz
+brew install kazu728/tap/gcz
 ```
